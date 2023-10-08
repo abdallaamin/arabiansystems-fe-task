@@ -1,4 +1,7 @@
-# Next.js Car Search App
+# Arabian Systems Next.js Car Search App Task 
+
+Hello Good People of Arabian systems 
+
 
 This is a Next.js application that allows users to search for cars using an external API. Please note that I understand my solution may not exactly meet all the requirements as requested. I used an API from Rapid API that provides car data, and I implemented all the requested functionality based on this API response. Instead of "vehicles data," I used the car data from the external API.
 
